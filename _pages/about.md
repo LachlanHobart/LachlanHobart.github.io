@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Astrophysics PhD Student at the University of Queensland
+subtitle: Astrophysics PhD Student at the [University of Queensland (UQ)](https://about.uq.edu.au/), Australia
 
 profile:
   align: right
@@ -15,8 +15,10 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD researcher in astrophysics working on stellar dynamics and computational modelling. My work focuses on understanding the formation and evolution of star clusters, with a particular interest in constraining the initial mass function using both observational data and N-body simulations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my undergraduate studies in physics at UQ, where I developed an interest in stellar astrophysics. This led me to pursue an honours project in determining the evolution of the open cluster Pleiades using N-body simulations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, my research involves building simulations of open star clusters, integrating methods such as machine learning based emulators to efficiently explore high dimensional parameter spaces with reduced computational time. By comparing these simulation models to observational datasets, we can identify the initial conditions of real star clusters. This gives insight into how clusters are born and whether their unique environments affect their formation.
+
+Outside of research, I am passionate about education, tutoring undergraduate physics across first to third year courses, as well as contributing to an Indigenous education boarding program, where I support students with a range of backgrounds in engaging and participating in STEM.
