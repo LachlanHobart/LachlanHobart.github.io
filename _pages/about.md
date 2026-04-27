@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Astrophysics PhD Student at the [University of Queensland (UQ)](https://about.uq.edu.au/), Australia
+subtitle: Astrophysics PhD Student at the <a href="https://about.uq.edu.au/">University of Queensland (UQ)</a>, Australia
 
 profile:
   align: right
