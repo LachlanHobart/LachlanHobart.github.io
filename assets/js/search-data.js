@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "books-the-godfather",
+  },{id: "nav-data-products",
+          title: "Data Products",
+          description: "Publicly available data associated with my research.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Data/";
+          },
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
