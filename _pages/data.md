@@ -1,15 +1,20 @@
 ---
 layout: page
-title: Data Products
+title: Data
 permalink: /Data/
-description: Publicly available data associated with my research.
 nav: true
 nav_order: 2
 ---
 
-# Public Data Products
+<style>
+.post-title {
+    display: none;
+}
+</style>
 
-This page provides access to stellar catalogues produced as part of my research into the stellar populations and mass functions of nearby open clusters. The catalogues contain astrometric, photometric, and stellar mass estimates derived from Gaia DR3 and supplementary photometric surveys.
+# Available Data Download
+
+This page provides access to stellar catalogues produced as part of research into the stellar populations and mass functions of nearby open clusters. The catalogues contain astrometric, photometric, and stellar mass estimates derived from Gaia DR3 and supplementary photometric surveys.
 
 ---
 
@@ -17,29 +22,23 @@ This page provides access to stellar catalogues produced as part of my research 
 
 Candidate members of the Alpha Persei open cluster with astrometric measurements, photometry, and stellar mass estimates.
 
-**Download:**
-
-[Alpha Persei Catalogue]({{ '/assets/data/alpha_persei_catalog.txt' | relative_url }})
+**Download:** [Alpha Persei Catalogue]({{ '/assets/data/alpha_persei_catalog.txt' | relative_url }})
 
 ---
 
 ## Pleiades Catalogue
 
-Candidate members of the Pleiades open cluster with derived stellar properties.
+Candidate members of the Pleiades open cluster with astrometric measurements, photometry, and stellar mass estimates.
 
-**Download:**
-
-[Pleiades Catalogue]({{ '/assets/data/pleiades_catalog.txt' | relative_url }})
+**Download:** [Pleiades Catalogue]({{ '/assets/data/pleiades_catalog.txt' | relative_url }})
 
 ---
 
 ## Praesepe Catalogue
 
-Candidate members of the Praesepe open cluster with astrometric and stellar mass information.
+Candidate members of the Praesepe open cluster with astrometric measurements, photometry, and stellar mass estimates.
 
-**Download:**
-
-[Praesepe Catalogue]({{ '/assets/data/praesepe_catalog.txt' | relative_url }})
+**Download:** [Praesepe Catalogue]({{ '/assets/data/praesepe_catalog.txt' | relative_url }})
 
 ---
 
